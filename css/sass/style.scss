@@ -4,88 +4,63 @@
 
 @import "grids";
 
-// .container {
-//   @include container(80em);
-// }
-
-// nav {
-//   @extend .debug-color1;
-//   @include span(3 of 24);
-// }
-// header {
-//   @extend .debug-color2;
-//   @include span(21 of 24);
-// }
-
-// .main {
-//   float: left;
-//   width: span(4);
-//   margin-left: span(2) + gutter();
-//   margin-right: gutter();
-// }
  
  .container {
   @include container(68em);
  }
- aside {
-  @include span(6 of 12);
-  
- }
 
- nav {
-  @include span(last 6 of 12);
- }
-
-
-
-
-
-
-$columns : 24;
-@for $i from 1 through $columns {
-  .span#{$i} {
-    @include span($i of $columns);
-  }
-}
-
-.grid-large {
-  
-  $columns : 6;
-  @for $i from 1 through $columns {
-    .span#{$i} {
-      @include span($i of $columns);
-    }
-  }
-
-
-}
-
-[class*="span"]:last-child {
-  margin: 0;
-}
-.last { margin: 0;}
-$layout: layout( (2 7 7 4 ) isolate 0);
+$layout: layout( (1 10 10 1 ) isolate 0);
+$layout1: layout( (1 20 1 ) isolate 0);
+$layout2: layout( (1 5 5 5 5 1) isolate 0);
 
 .col-first {
-  @include span(1 at 1 of $layout);
+  @include span(1 at 2 of $layout);
 }
 
 .col-second {
-  @include span(1 at 2 of $layout);  
-}
-
-.col-third {
   @include span(1 at 3 of $layout);  
 }
 
-.col-fourth {
-  @include span(1 at 4 of $layout);  
+.col-third {
+  @include span(1 at 2 of $layout1);
 }
 
-.col-second-first {
-  @include span(2 at 1 of $layout);
+.layout-1 {
+  @include span(1 at 2 of $layout2);
+}
+.layout-2 {
+  @include span(2 at 3 of $layout2);
+}
+.layout-3 {
+  @include span(1 at 5 of $layout2);
 }
 
-.col-second-second {
-  @include span(2 at 3 of $layout);  
+
+.layout-items {
+  height: 80px;
+  @include span(1 of 3 0)
+}
+
+
+
+@include with-layout(layout((1 10 10 1) isolate 0)) {
+  .ahmed {
+    @include span(1 at 2);
+  }  
+  .ayoub {
+    @include span(1 at 3);
+
+  }
+}
+
+@include with-layout(layout((1 6 6 8 1) isolate 0)) {
+  .ethar {@include span(1 at 2);}
+  .samar {@include span(1 at 3);}
+  .alyaa {@include span(1 at 4);}
+}
+
+@include with-layout(layout((2 12 16 12 2) isolate 0)){
+  .baba {@include span(1 at 2);}
+  .mama {@include span(1 at 3);}
+  .aly {@include span(1 at 4);}
 }

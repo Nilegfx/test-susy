@@ -1,291 +1,114 @@
-/* line 27, ../sass/style.scss */
 .container {
   max-width: 68em;
   margin-left: auto;
   margin-right: auto;
 }
-/* line 12, ../../../../../../Ruby193/lib/ruby/gems/1.9.1/gems/susy-2.2.2/sass/susy/output/support/_clearfix.scss */
 .container:after {
   content: " ";
   display: block;
   clear: both;
 }
 
-/* line 30, ../sass/style.scss */
-aside {
-  width: 49.15254%;
-  float: left;
-  margin-right: 1.69492%;
-}
-
-/* line 35, ../sass/style.scss */
-nav {
-  width: 49.15254%;
-  float: right;
-  margin-right: 0;
-}
-
-/* line 46, ../sass/style.scss */
-.span1 {
-  width: 3.36134%;
-  float: left;
-  margin-right: 0.84034%;
-}
-
-/* line 46, ../sass/style.scss */
-.span2 {
-  width: 7.56303%;
-  float: left;
-  margin-right: 0.84034%;
-}
-
-/* line 46, ../sass/style.scss */
-.span3 {
-  width: 11.76471%;
-  float: left;
-  margin-right: 0.84034%;
-}
-
-/* line 46, ../sass/style.scss */
-.span4 {
-  width: 15.96639%;
-  float: left;
-  margin-right: 0.84034%;
-}
-
-/* line 46, ../sass/style.scss */
-.span5 {
-  width: 20.16807%;
-  float: left;
-  margin-right: 0.84034%;
-}
-
-/* line 46, ../sass/style.scss */
-.span6 {
-  width: 24.36975%;
-  float: left;
-  margin-right: 0.84034%;
-}
-
-/* line 46, ../sass/style.scss */
-.span7 {
-  width: 28.57143%;
-  float: left;
-  margin-right: 0.84034%;
-}
-
-/* line 46, ../sass/style.scss */
-.span8 {
-  width: 32.77311%;
-  float: left;
-  margin-right: 0.84034%;
-}
-
-/* line 46, ../sass/style.scss */
-.span9 {
-  width: 36.97479%;
-  float: left;
-  margin-right: 0.84034%;
-}
-
-/* line 46, ../sass/style.scss */
-.span10 {
-  width: 41.17647%;
-  float: left;
-  margin-right: 0.84034%;
-}
-
-/* line 46, ../sass/style.scss */
-.span11 {
-  width: 45.37815%;
-  float: left;
-  margin-right: 0.84034%;
-}
-
-/* line 46, ../sass/style.scss */
-.span12 {
-  width: 49.57983%;
-  float: left;
-  margin-right: 0.84034%;
-}
-
-/* line 46, ../sass/style.scss */
-.span13 {
-  width: 53.78151%;
-  float: left;
-  margin-right: 0.84034%;
-}
-
-/* line 46, ../sass/style.scss */
-.span14 {
-  width: 57.98319%;
-  float: left;
-  margin-right: 0.84034%;
-}
-
-/* line 46, ../sass/style.scss */
-.span15 {
-  width: 62.18487%;
-  float: left;
-  margin-right: 0.84034%;
-}
-
-/* line 46, ../sass/style.scss */
-.span16 {
-  width: 66.38655%;
-  float: left;
-  margin-right: 0.84034%;
-}
-
-/* line 46, ../sass/style.scss */
-.span17 {
-  width: 70.58824%;
-  float: left;
-  margin-right: 0.84034%;
-}
-
-/* line 46, ../sass/style.scss */
-.span18 {
-  width: 74.78992%;
-  float: left;
-  margin-right: 0.84034%;
-}
-
-/* line 46, ../sass/style.scss */
-.span19 {
-  width: 78.9916%;
-  float: left;
-  margin-right: 0.84034%;
-}
-
-/* line 46, ../sass/style.scss */
-.span20 {
-  width: 83.19328%;
-  float: left;
-  margin-right: 0.84034%;
-}
-
-/* line 46, ../sass/style.scss */
-.span21 {
-  width: 87.39496%;
-  float: left;
-  margin-right: 0.84034%;
-}
-
-/* line 46, ../sass/style.scss */
-.span22 {
-  width: 91.59664%;
-  float: left;
-  margin-right: 0.84034%;
-}
-
-/* line 46, ../sass/style.scss */
-.span23 {
-  width: 95.79832%;
-  float: left;
-  margin-right: 0.84034%;
-}
-
-/* line 46, ../sass/style.scss */
-.span24 {
-  width: 100%;
-  float: left;
-  margin-left: 0;
-  margin-right: 0;
-}
-
-/* line 55, ../sass/style.scss */
-.grid-large .span1 {
-  width: 13.7931%;
-  float: left;
-  margin-right: 3.44828%;
-}
-/* line 55, ../sass/style.scss */
-.grid-large .span2 {
-  width: 31.03448%;
-  float: left;
-  margin-right: 3.44828%;
-}
-/* line 55, ../sass/style.scss */
-.grid-large .span3 {
-  width: 48.27586%;
-  float: left;
-  margin-right: 3.44828%;
-}
-/* line 55, ../sass/style.scss */
-.grid-large .span4 {
-  width: 65.51724%;
-  float: left;
-  margin-right: 3.44828%;
-}
-/* line 55, ../sass/style.scss */
-.grid-large .span5 {
-  width: 82.75862%;
-  float: left;
-  margin-right: 3.44828%;
-}
-/* line 55, ../sass/style.scss */
-.grid-large .span6 {
-  width: 100%;
-  float: left;
-  margin-left: 0;
-  margin-right: 0;
-}
-
-/* line 63, ../sass/style.scss */
-[class*="span"]:last-child {
-  margin: 0;
-}
-
-/* line 66, ../sass/style.scss */
-.last {
-  margin: 0;
-}
-
-/* line 69, ../sass/style.scss */
 .col-first {
-  width: 10%;
+  width: 45.45455%;
   float: left;
-  margin-left: 0;
+  margin-left: 4.54545%;
   margin-right: -100%;
 }
 
-/* line 73, ../sass/style.scss */
 .col-second {
-  width: 35%;
+  width: 45.45455%;
   float: left;
-  margin-left: 10%;
+  margin-left: 50%;
   margin-right: -100%;
 }
 
-/* line 77, ../sass/style.scss */
 .col-third {
-  width: 35%;
+  width: 90.90909%;
   float: left;
-  margin-left: 45%;
+  margin-left: 4.54545%;
   margin-right: -100%;
 }
 
-/* line 81, ../sass/style.scss */
-.col-fourth {
-  width: 20%;
+.layout-1 {
+  width: 22.72727%;
   float: left;
-  margin-left: 80%;
+  margin-left: 4.54545%;
   margin-right: -100%;
 }
 
-/* line 85, ../sass/style.scss */
-.col-second-first {
-  width: 45%;
+.layout-2 {
+  width: 45.45455%;
   float: left;
-  margin-left: 0;
+  margin-left: 27.27273%;
   margin-right: -100%;
 }
 
-/* line 89, ../sass/style.scss */
-.col-second-second {
-  width: 55.0%;
+.layout-3 {
+  width: 22.72727%;
   float: left;
-  margin-left: 45%;
+  margin-left: 72.72727%;
+  margin-right: -100%;
+}
+
+.layout-items {
+  height: 80px;
+  width: 33.33333%;
+  float: left;
+}
+
+.ahmed {
+  width: 45.45455%;
+  float: left;
+  margin-left: 4.54545%;
+  margin-right: -100%;
+}
+
+.ayoub {
+  width: 45.45455%;
+  float: left;
+  margin-left: 50%;
+  margin-right: -100%;
+}
+
+.ethar {
+  width: 27.27273%;
+  float: left;
+  margin-left: 4.54545%;
+  margin-right: -100%;
+}
+
+.samar {
+  width: 27.27273%;
+  float: left;
+  margin-left: 31.81818%;
+  margin-right: -100%;
+}
+
+.alyaa {
+  width: 36.36364%;
+  float: left;
+  margin-left: 59.09091%;
+  margin-right: -100%;
+}
+
+.baba {
+  width: 27.27273%;
+  float: left;
+  margin-left: 4.54545%;
+  margin-right: -100%;
+}
+
+.mama {
+  width: 36.36364%;
+  float: left;
+  margin-left: 31.81818%;
+  margin-right: -100%;
+}
+
+.aly {
+  width: 27.27273%;
+  float: left;
+  margin-left: 68.18182%;
   margin-right: -100%;
 }

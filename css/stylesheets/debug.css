@@ -1,249 +1,199 @@
-/* line 65, ../sass/_helper_functions.scss */
 .debug-color1 {
-  background-color: #134a57;
+  background-color: #511249;
 }
 
-/* line 65, ../sass/_helper_functions.scss */
 .debug-color2 {
-  background-color: #5ca042;
+  background-color: #db1ec7;
 }
 
-/* line 65, ../sass/_helper_functions.scss */
 .debug-color3 {
-  background-color: #e16ec6;
+  background-color: #6b1a3b;
 }
 
-/* line 65, ../sass/_helper_functions.scss */
 .debug-color4 {
-  background-color: #bda3b3;
+  background-color: #166d0c;
 }
 
-/* line 65, ../sass/_helper_functions.scss */
 .debug-color5 {
-  background-color: #f967b2;
+  background-color: #2e1521;
 }
 
-/* line 65, ../sass/_helper_functions.scss */
 .debug-color6 {
-  background-color: #682a6c;
+  background-color: #6522c3;
 }
 
-/* line 65, ../sass/_helper_functions.scss */
 .debug-color7 {
-  background-color: #8a28f3;
+  background-color: #967fc1;
 }
 
-/* line 65, ../sass/_helper_functions.scss */
 .debug-color8 {
-  background-color: #5d3365;
+  background-color: #8e012c;
 }
 
-/* line 65, ../sass/_helper_functions.scss */
 .debug-color9 {
-  background-color: #634f30;
+  background-color: #f47e89;
 }
 
-/* line 65, ../sass/_helper_functions.scss */
 .debug-color10 {
-  background-color: #7b7cc9;
+  background-color: #b7d5bc;
 }
 
-/* line 65, ../sass/_helper_functions.scss */
 .debug-color11 {
-  background-color: #a61ef1;
+  background-color: #d9eb80;
 }
 
-/* line 65, ../sass/_helper_functions.scss */
 .debug-color12 {
-  background-color: #dc0131;
+  background-color: #47106f;
 }
 
-/* line 65, ../sass/_helper_functions.scss */
 .debug-color13 {
-  background-color: #bf892d;
+  background-color: #87a9c5;
 }
 
-/* line 65, ../sass/_helper_functions.scss */
 .debug-color14 {
-  background-color: #8998ab;
+  background-color: #f1e805;
 }
 
-/* line 65, ../sass/_helper_functions.scss */
 .debug-color15 {
-  background-color: #c6090e;
+  background-color: #b3ac5c;
 }
 
-/* line 65, ../sass/_helper_functions.scss */
 .debug-color16 {
-  background-color: #650186;
+  background-color: #7b5cd8;
 }
 
-/* line 65, ../sass/_helper_functions.scss */
 .debug-color17 {
-  background-color: #b035c1;
+  background-color: #4699a3;
 }
 
-/* line 65, ../sass/_helper_functions.scss */
 .debug-color18 {
-  background-color: #8b0c08;
+  background-color: #4f8fd1;
 }
 
-/* line 65, ../sass/_helper_functions.scss */
 .debug-color19 {
-  background-color: #f2cbae;
+  background-color: #dd4cb4;
 }
 
-/* line 65, ../sass/_helper_functions.scss */
 .debug-color20 {
-  background-color: #8e9161;
+  background-color: #49b875;
 }
 
-/* line 65, ../sass/_helper_functions.scss */
 .debug-color21 {
-  background-color: #6c74c6;
+  background-color: #8e782f;
 }
 
-/* line 65, ../sass/_helper_functions.scss */
 .debug-color22 {
-  background-color: #e05dc0;
+  background-color: #7c872d;
 }
 
-/* line 65, ../sass/_helper_functions.scss */
 .debug-color23 {
-  background-color: #9bcf2e;
+  background-color: #fcf20a;
 }
 
-/* line 65, ../sass/_helper_functions.scss */
 .debug-color24 {
-  background-color: #3d3b97;
+  background-color: #19e4a7;
 }
 
-/* line 65, ../sass/_helper_functions.scss */
 .debug-color25 {
-  background-color: #950c74;
+  background-color: #fad97e;
 }
 
-/* line 65, ../sass/_helper_functions.scss */
 .debug-color26 {
-  background-color: #ddb2f6;
+  background-color: #fdd1ef;
 }
 
-/* line 65, ../sass/_helper_functions.scss */
 .debug-color27 {
-  background-color: #c51534;
+  background-color: #567825;
 }
 
-/* line 65, ../sass/_helper_functions.scss */
 .debug-color28 {
-  background-color: #40536e;
+  background-color: #4e66b1;
 }
 
-/* line 65, ../sass/_helper_functions.scss */
 .debug-color29 {
-  background-color: #6dc754;
+  background-color: #6972d7;
 }
 
-/* line 65, ../sass/_helper_functions.scss */
 .debug-color30 {
-  background-color: #fc57e9;
+  background-color: #cd8ce9;
 }
 
-/* line 65, ../sass/_helper_functions.scss */
 .debug-color31 {
-  background-color: #2abe07;
+  background-color: #cf8caa;
 }
 
-/* line 65, ../sass/_helper_functions.scss */
 .debug-color32 {
-  background-color: #50f0bd;
+  background-color: #287bde;
 }
 
-/* line 65, ../sass/_helper_functions.scss */
 .debug-color33 {
-  background-color: #e28e52;
+  background-color: #8b35a2;
 }
 
-/* line 65, ../sass/_helper_functions.scss */
 .debug-color34 {
-  background-color: #bfe28b;
+  background-color: #370791;
 }
 
-/* line 65, ../sass/_helper_functions.scss */
 .debug-color35 {
-  background-color: #fe853b;
+  background-color: #be8d9e;
 }
 
-/* line 65, ../sass/_helper_functions.scss */
 .debug-color36 {
-  background-color: #7f645a;
+  background-color: #398fee;
 }
 
-/* line 65, ../sass/_helper_functions.scss */
 .debug-color37 {
-  background-color: #48ef28;
+  background-color: #fb1930;
 }
 
-/* line 65, ../sass/_helper_functions.scss */
 .debug-color38 {
-  background-color: #65d3e1;
+  background-color: #ed3bcd;
 }
 
-/* line 65, ../sass/_helper_functions.scss */
 .debug-color39 {
-  background-color: #533d26;
+  background-color: #063b46;
 }
 
-/* line 65, ../sass/_helper_functions.scss */
 .debug-color40 {
-  background-color: #940e9e;
+  background-color: #909e35;
 }
 
-/* line 65, ../sass/_helper_functions.scss */
 .debug-color41 {
-  background-color: #c775de;
+  background-color: #b18427;
 }
 
-/* line 65, ../sass/_helper_functions.scss */
 .debug-color42 {
-  background-color: #9f857c;
+  background-color: #283f52;
 }
 
-/* line 65, ../sass/_helper_functions.scss */
 .debug-color43 {
-  background-color: #8920c1;
+  background-color: #6f2330;
 }
 
-/* line 65, ../sass/_helper_functions.scss */
 .debug-color44 {
-  background-color: #582a0d;
+  background-color: #1d188b;
 }
 
-/* line 65, ../sass/_helper_functions.scss */
 .debug-color45 {
-  background-color: #2a61cd;
+  background-color: #783047;
 }
 
-/* line 65, ../sass/_helper_functions.scss */
 .debug-color46 {
-  background-color: #170942;
+  background-color: #db50b8;
 }
 
-/* line 65, ../sass/_helper_functions.scss */
 .debug-color47 {
-  background-color: #accb27;
+  background-color: #671e2c;
 }
 
-/* line 65, ../sass/_helper_functions.scss */
 .debug-color48 {
-  background-color: #4f4b87;
+  background-color: #30e9f3;
 }
 
-/* line 65, ../sass/_helper_functions.scss */
 .debug-color49 {
-  background-color: #c4127b;
+  background-color: #5263fb;
 }
 
-/* line 65, ../sass/_helper_functions.scss */
 .debug-color50 {
-  background-color: #d94964;
+  background-color: #2cc0c1;
 }
